@@ -1,4 +1,4 @@
 
-public class C0183 {
+public class C0183 extends Student {
 
 }
