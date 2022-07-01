@@ -1,4 +1,10 @@
 
 public class C0153 extends Student{
-//test
+	
+	public C0153(final String name) {
+		
+		super(name);
+		
+	}
+	
 }
